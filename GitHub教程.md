@@ -6,7 +6,7 @@
 
 从本地仓库将文件 git 到远程仓库的流程：工作区 --> 暂存区 --> 仓库区 --> 远程仓库
 
-![](D:\Software\Git\repository\Github\images\git原理图.png)
+![git原理图](https://github.com/lx18379612615/Github/blob/master/images/git%E5%8E%9F%E7%90%86%E5%9B%BE.png)
 
 将本地文件 git 到 Github 远程仓库
 
