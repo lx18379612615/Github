@@ -6,7 +6,7 @@
 
 从本地仓库将文件 git 到远程仓库的流程：工作区 --> 暂存区 --> 仓库区 --> 远程仓库
 
-![](C:\Users\lengxu32110\Desktop\git原理图.png)
+![image-20200816144009302](C:\Users\lengxu32110\AppData\Roaming\Typora\typora-user-images\image-20200816144009302.png)
 
 将本地文件 git 到 Github 远程仓库
 
